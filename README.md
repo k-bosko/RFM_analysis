@@ -40,7 +40,7 @@ In the next step, I segmented the RFM data with **k-means clustering** technique
 ## Results
 ![RFM Analysis](assets/rfm_analysis.png "RFM Analysis Results")
 
-![RFM Clustering](assets/RFM_clustering.png "RFM Analysis Results II")
+![RFM Clustering](assets/rfm_clustering.png "RFM Analysis Results II")
 
 It seems like there are 159 customers (probably wholesalers) in Cluster 1 who buy a lot from us pretty frequent. These are our core business clients. <br>
 The snake plot shows the distinction between 3 Clusters - there is Cluster 1 with customers that spend the most, buy most frequently and most recently. The next good segment is Cluster 2 (1586 customers) with average spending of 6624.6 sterling in 2011, 7.5 transactions and about a month since the last purchase. The least attractive is Cluster 0 (2499) - with about 4 months since last transaction on average, almost 2 transactions per year and no more than 5000 sterling in yearly purchases.
